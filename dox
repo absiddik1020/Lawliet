@@ -1,0 +1,25 @@
+font-------------
+
+
+Poppins 400.800,500
+font-family: 'Poppins', sans-serif;
+
+Playfair Display 700,900
+font-family: 'Playfair Display', serif; 
+
+Plus Jakarta Sans 500,700,400
+font-family: 'Plus Jakarta Sans', sans-serif;
+
+
+
+bg-color,color-------------
+    blue2 #1282A6;
+    footer #05546D
+
+
+color---
+    white #FFFFFF;
+    blue #094B72;
+    black #4F4F4F;
+
+    https://www.figma.com/file/bYHqUvwPfYKpVeazTpu3Ni/Lawyer-Landing-Page---Lawliet-(Community)?type=design&node-id=17-18&mode=design&t=UTuq0byO8Pj20DIH-0

@@ -1,0 +1,323 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+     /* header start */
+
+     .menu ul li a {
+        margin: -3px 10px;
+       
+    }
+    .b_text {
+        padding: 35px 0 0;
+    }
+
+
+
+     .btn-searce {
+        margin-left: -48px;
+    }
+    
+    .dpm[data-bs-popper] {
+        top: 54px;
+        left: -57px;
+        padding: 5px 5px;
+    }
+    /* bannar */
+    .bannar {
+       
+        padding: 0px 0 0px;
+    }
+
+    .b_text h1 {
+        font-size: 30px;
+        padding: 0 33px 0 0;
+    }
+
+    .b_p {
+       
+        padding: 0 0px 0 0;
+    }
+
+    .bt {
+        margin-bottom: 30px;
+        width: 148px;
+        height: 40px;
+        margin: 0 0px 0 50px;
+        
+    }
+    .b_img {
+        margin: -50px 0 0;
+    }
+
+/* service */
+.service {
+    
+    padding: 0px 0;
+}
+
+.s_text h1 {
+    font-size: 30px;
+    padding: 0 15px 0 0;
+}
+
+.s_text p {
+    padding: 0 5px 0 0;
+    margin-bottom: 10px;
+}
+.card h3 {
+    font-size: 22px;
+    padding: 0 0px 0 0;
+}
+
+
+
+
+
+.card {
+        padding: 15px 15px;
+        border: none;
+        margin-bottom: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /* header start */
+     .btn-searce {
+        margin-left: -48px;
+    }
+    .dpm[data-bs-popper] {
+        top: -23px;
+        left: 21px;
+        
+    }
+/* bannar */
+.bannar {
+    padding: 30px 0 60px;
+}
+
+.b_img {
+    margin: -132px 0 0;
+}
+
+
+.b_text h1 {
+    font-size: 35px;
+    padding: 0 204px 0 0;
+}
+.b_p {
+    font-size: 20px;
+    padding: 0 0px 0 0;
+}
+
+.b_text {
+    padding: 62px 0 0;
+}
+.bt {
+    margin-bottom: 40px;
+    
+}
+.bt {
+   
+    width: 170px;
+    height: 50px;
+   
+}
+
+
+/* service */
+.service {
+    
+    padding: 0px 0;
+}
+
+.s_text h1 {
+    font-size: 35px;
+    padding: 0 194px 0 0;
+}
+.s_text p {
+    padding: 0 221px 0 0;
+    margin-bottom: 10px;
+   
+}
+
+.card {
+        padding: 15px 15px;
+        border: none;
+        margin-bottom: 15px;
+    }
+
+
+
+}
+
+
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header start */
+    .btn-searce {
+        margin-left: -48px;
+    }
+    .dpm[data-bs-popper] {
+        top: -23px;
+        left: 21px;
+        
+    }
+/* bannar */
+.bannar {
+    padding: 30px 0 60px;
+}
+
+.b_text h1 {
+    font-size: 55px;
+    padding: 0 6px 0 0;
+}
+.b_p {
+    font-size: 20px;
+    padding: 0 0px 0 0;
+}
+
+.b_text {
+    padding: 62px 0 0;
+}
+.bt {
+    margin-bottom: 40px;
+    
+}
+.bt {
+   
+    width: 170px;
+    height: 50px;
+   
+}
+
+    /* service */
+
+    .s_text h1 {
+       
+        font-size: 30px;
+        padding: 0 10px 0 0;
+    }
+    .s_text p {
+        
+        padding: 0 0px 0 0;
+      
+    }
+    .card h3 {
+        
+        font-size: 20px;
+        padding: 0 10px 0 0;
+    }
+
+    .card p {
+        padding: 0 0px 0 0;
+    }
+
+
+
+
+
+
+
+
+ }
+
+
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    /* bannar */
+    .b_text h1 {
+       
+        font-size: 70px;
+        padding: 0 53px 0 0;
+    }
+    .b_p {
+        padding: 0 131px 0 0;
+    }
+
+
+    /* service */
+
+
+    .s_text h1 {
+      
+        padding: 0 54px 0 0;
+    }
+
+    .s_text p {
+        padding: 0 160px 0 0;
+        
+    }
+.card h3 {
+    padding: 0 23px 0 0;
+}
+
+
+
+
+
+ }
+
+
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+/* bannar */
+
+.b_text h1 {
+    
+    font-size: 75px;
+    padding: 0 105px 0 0;
+}
+
+
+
+
+    /* service */
+    .s_text h1 {
+        padding: 0 155px 0 0;
+    }
+
+    .s_text p {
+       
+        padding: 0 255px 0 0;
+        
+    }
+
+    .card h3 {
+        padding: 0 60px 0 0;
+    }
+
+
+
+
+ }
+
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
